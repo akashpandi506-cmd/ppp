@@ -1,0 +1,6 @@
+{
+  "name": "ChessVerse 3D",
+  "description": "Premium 3D Chess and Tic-Tac-Toe gaming platform with AI, online multiplayer, unique UID system, and WhatsApp-inspired private messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
